@@ -1,5 +1,5 @@
-#This project showcases an interactive Excel-based dashboard created using CarDekho sales dataset to analyze key trends in the automobile market.
-#The dashboard provides actionable insights into various parameters such as mileage, engine capacity, seating capacity, power, kilometers driven, and selling price across different car brands and models.
+# This project showcases an interactive Excel-based dashboard created using CarDekho sales dataset to analyze key trends in the automobile market.
+# The dashboard provides actionable insights into various parameters such as mileage, engine capacity, seating capacity, power, kilometers driven, and selling price across different car brands and models.
 
 <img width="1346" height="650" alt="Image" src="https://github.com/user-attachments/assets/b0aa5f1e-1a44-4902-aa8d-ffac2bca76d9" />
 <img width="1366" height="650" alt="Image" src="https://github.com/user-attachments/assets/73a9266d-5f77-4c83-b920-81b2d30263a1" />
